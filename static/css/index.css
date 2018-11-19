@@ -1,0 +1,13 @@
+body {
+    background-color: grey;
+}
+.icon {
+    margin: 2px;
+    padding: 2px;
+    border-radius: 2px;
+    border-style: solid;
+    border-color:lightgrey;
+    width: 5%;
+    max-width: 100px;
+    max-height: 100px;
+}
